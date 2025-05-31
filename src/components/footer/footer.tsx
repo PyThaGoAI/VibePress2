@@ -137,7 +137,7 @@ function Footer({
         >
           <Button size="sm" variant="ghost">
             <SparkleIcon className="size-3.5" />
-            <span className="max-lg:hidden">DeepSite Gallery</span>
+            <span className="max-lg:hidden">VibePress Gallery</span>
           </Button>
         </a>
         <Button size="sm" variant="default" onClick={handleRefreshIframe}>
