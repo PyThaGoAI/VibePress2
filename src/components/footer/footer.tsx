@@ -132,7 +132,7 @@ function Footer({
       </div>
       <div className="flex justify-end items-center gap-2.5">
         <a
-          href="https://huggingface.co/spaces/victor/deepsite-gallery"
+          href="#"
           target="_blank"
         >
           <Button size="sm" variant="ghost">
